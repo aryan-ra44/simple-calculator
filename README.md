@@ -1,1 +1,2 @@
 # simple-calculator
+The functions add, subtract, multiply, and divide handle the mathematic operations. The divide function checks for division by zero, returning an error message if attempted. In the calculator function, I presented a menu for operation selection and used integer inputs from the user for numbers. The program validates the user's choice and performs the operation selected by the user, displaying the result in a straight forward manner. 
